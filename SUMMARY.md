@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
+* [Host Dashboard](getting-started/host-dashboard.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
 ## Basics

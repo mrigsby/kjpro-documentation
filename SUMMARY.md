@@ -2,15 +2,15 @@
 
 * [KJPro.info Documentation](README.md)
 
-## Getting Started
+## Host Dashboard
 
-* [Host Dashboard](getting-started/host-dashboard.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Logging In](host-dashboard/logging-in.md)
+* [Tour](host-dashboard/tour.md)
 
-## Basics
+## Events
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Editor](events/editor.md)
+* [Markdown](events/markdown.md)
+* [Images & media](events/images-and-media.md)
+* [Interactive blocks](events/interactive-blocks.md)
+* [Integrations](events/integrations.md)

@@ -1,5 +1,8 @@
 ---
-icon: bolt
+description: >-
+  The Host dashboard provides access to all the functions necessary to control
+  your events, host profile and site preferences
+icon: circle-user
 layout:
   width: default
   title:
@@ -16,14 +19,14 @@ layout:
     visible: true
 ---
 
-# Quickstart
+# Logging In
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 
 Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
 
 {% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](../basics/editor.md) section to learn more.
+Want to learn about writing content from scratch? Head to the [Basics](../events/editor.md) section to learn more.
 {% endhint %}
 
 ### Import

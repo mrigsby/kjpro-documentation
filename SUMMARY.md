@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [KJPro.info Documentation](README.md)
 
 ## Getting Started
 

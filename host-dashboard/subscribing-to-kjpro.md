@@ -16,15 +16,15 @@ The form is very self explanatory, however there are a couple items of note.
 
 1. KJ/DJ Name: This is your "Stage Name" i.e. `The Karaoke Kingpin`
 2. KJ/DJ URL: This will be turned into your Host Profile URL. Using the examples above, if you enter `The Karaoke Kingpin` the system will replace the spaces with dashes, giving you `The-Karaoke-Kingpin`. \
-   \
-   After preparing the url the KJPro.info system will verify it is not in use by any other hosts. If it is it will attempt to make it unique by appending a number to it. \
-   \
-   Once created your Host Profile full url (in this example) would be:\
-   `https://www.kjpro.info/The-Karaoke-Kingpin`\
-   &#x20;\
-   \
-   If you would prefer to not use dashes, then you can omit them in your KJ/DJ URL, for example `TheKaraokeKingpin` would  give you a host profile url of:\
-   `https://www.kjpro.info/TheKaraokeKingpin`\
+
+
+After preparing the url the KJPro.info system will verify it is not in use by any other hosts. If it is it will attempt to make it unique by appending a number to it.&#x20;
+
+If you would prefer to not use dashes, then you can omit them in your KJ/DJ URL, for example `TheKaraokeKingpin` would  give you a host profile url of:\
+`https://www.kjpro.info/TheKaraokeKingpin`
+
+Once created your Host Profile full url (in this example) would be:\
+`https://www.kjpro.info/The-Karaoke-Kingpin`\
 
 
 {% hint style="info" %}

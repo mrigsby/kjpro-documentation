@@ -19,11 +19,12 @@ The form is very self explanatory, however there are a couple items of note.
    \
    After preparing the url the system will then verify it is not in use by any other KJ or DJ. If it is it will attempt to make it unique by appending a number to it. \
    \
-   Once created your Host Profile full url would be `https://www.kjpro.info/The-Karaoke-Kingpin`\
-   \
+   Once created your Host Profile full url would be:\
+   `https://www.kjpro.info/The-Karaoke-Kingpin`\
    &#x20;\
    \
-   If you would prefer to not use dashes, then you can omit them in your KJ/DJ URL, for example "TheKaraokeKingpin" which would  give you a host profile url of `https://www.kjpro.info/TheKaraokeKingpin`\
+   If you would prefer to not use dashes, then you can omit them in your KJ/DJ URL, for example "TheKaraokeKingpin" which would  give you a host profile url of\
+   `https://www.kjpro.info/TheKaraokeKingpin`\
 
 
 {% hint style="info" %}

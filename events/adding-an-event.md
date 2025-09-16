@@ -7,7 +7,7 @@ icon: calendar-pen
 
 To get started, just go over to the `Events` page in the `Host Dashboard` and click on `Add Event` in the top right.
 
-<div align="left"><figure><img src="../.gitbook/assets/Screenshot 2025-09-16 at 4.25.35 PM.png" alt="" width="159"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Screenshot 2025-09-16 at 4.25.35 PM.png" alt="" width="106"><figcaption></figcaption></figure></div>
 
 The `Add Event Form` is made up of multiple sections. Let's go over each one
 
@@ -73,7 +73,7 @@ The Google Places ID is read only and can only be set using the Google Places Se
 
 `Event Description` allows you to enter short description for the event including any specifics for the event.&#x20;
 
-Specials allows you to list any specials or highlights of the event or that that the venue has. Each item should be entered on a new line.&#x20;
+`Specials` allows you to list any specials or highlights of the event or that that the venue has. Each item should be entered on a new line.&#x20;
 
 For example:
 

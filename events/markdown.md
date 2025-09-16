@@ -36,7 +36,3 @@ The list includes the following columns. Some columns display pertinent informai
 * Event Modifiers: A clickable icon to open the mange even modifiers page for this event
 * Event Photos: A clickable icon to open the manage event photos page for this event
 * Set Status: A clickable icon that quickly toggles the event from Active to In-Active or In-Active to Active.
-
-{% hint style="info" %}
-If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
-{% endhint %}

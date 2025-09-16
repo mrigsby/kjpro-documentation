@@ -25,7 +25,7 @@ Lets go over the basics... Logging in! You can click the `Host Login` in the web
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-16 at 2.10.14 PM.png" alt=""><figcaption></figcaption></figure>
 
-Enter your email address and password and click "Login" and it will take you directly to your Host Dashboard
+Enter your email address and password and click `Login` and it will take you directly to your Host Dashboard
 
 ### Lost Password ?
 

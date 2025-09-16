@@ -23,7 +23,7 @@ The profile edit form contains four main sections
 
 This contains all your basic information as well as provides for links to all your socials that will be displayed on public side of the site.&#x20;
 
-The `Profile Photo` allows you to upload a profile image by clicking the `Upload Profile Photo` button. This intended to be a picture of yourself. If you have a business logo that can be added in the `Your Business` tab. After uploading, the system will display the preview and will be saved to the server when the form is saved.&#x20;
+The `Profile Photo` allows you to upload a profile image by clicking the `Upload Profile Photo` button. This is intended to be a picture of yourself. If you have a business logo that can be added in the `Your Business` tab. After uploading, the system will display the preview and will be saved to the server when the form is saved.&#x20;
 
 #### Address
 
@@ -45,16 +45,23 @@ In order to provide a more-than plain text option to make your profile much more
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-16 at 12.23.17 PM.png" alt=""><figcaption></figcaption></figure>
 
-The `Your Business` section provides the ability to provide your KJ/DJ Name (i.e. DJ Billy), a separate business name, business phone, mobile phone and a short business description.
+The `Your Business` section provides the ability to provide your KJ/DJ Name (i.e. `The Karaoke Kingpin`), a separate business name, business phone, mobile phone and a short business description.
 
 A business logo can be uploaded using the `Select New Photo` button. It will give you a preview and will be saved to the server when the form is saved.&#x20;
 
-The short business description should be kept to just a couple of sentences. This is intended to be more of a tag line type snippet. It is much better to go into details about services provided, experience, history, etc. in the `About You` section.&#x20;
+The short business description should be kept to a couple sentences. This is intended to be more of a tag line type snippet.&#x20;
+
+For example:\
+`The Karaoke Kingpin has been serving the greater Baltimore Maryland area with great music and exceptional service for over 20 years! Give us a call to see how we can take your next event to the next level!`
+
+{% hint style="info" %}
+It is much better to go into details about services provided, experience, history, etc. in the `About You` section.&#x20;
+{% endhint %}
 
 #### Saving Your Profile
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-16 at 12.33.58 PM.png" alt=""><figcaption></figcaption></figure>
 
-Before saving your profile (as well as events, event modifiers, etc.) you will need to confirm that you agree with the Terms of Service and Privacy Policy. Once your profile is saved you will be shown a confirmation at the top of the page confirming the profile was saved.&#x20;
+Before saving your profile (as well as events, event modifiers, etc.) you will need to confirm that you agree with the [Terms of Service](https://www.kjpro.info/terms-of-service) and [Privacy Policy](https://www.kjpro.info/privacy-policy). Once your profile is saved you will be shown a confirmation at the top of the page confirming the profile was saved.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-09-16 at 12.35.33 PM.png" alt=""><figcaption></figcaption></figure>

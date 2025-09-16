@@ -33,10 +33,10 @@ The KJ/DJ URL is not intended to be changed often. This will be your personal ur
 
 Once you have completed the KJPro.info Subscription form, check the box affirming that you have read and agree to the [Privacy Policy,](https://www.kjpro.info/privacy-policy) [Terms of Service](https://www.kjpro.info/terms-of-service) and understand your payment method will be charged for your first year subscription and will be used to renew your subscription on a yearly basis unless your subscription is canceled .&#x20;
 
-Click the "Complete Registration" button and wait for the KJPro system to process your signup.&#x20;
+Click the `Complete Registration` button and wait for the KJPro system to process your signup.&#x20;
 
 {% hint style="info" %}
-Don't you hate when companies make it hard to cancel your subscription? Well, so do we, thats why we make it easy. Canceling your subscription so it will not renew is super simple and only takes  a couple clicks on the website to do so!\
+Don't you hate when companies make it hard to cancel your subscription? Well, so do we!  Here at KJPro.info we make it easy. Canceling your subscription so it will not renew is very simple and only takes a couple clicks on the website to do so!\
 \
-Please be sure to read or [Terms of Service](https://www.kjpro.info/terms-of-service)  so you thoroughly understand our billing and refund policy.&#x20;
+Be sure to read or [Terms of Service](https://www.kjpro.info/terms-of-service)  so you thoroughly understand our billing and refund policy.&#x20;
 {% endhint %}

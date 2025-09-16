@@ -11,5 +11,6 @@
 
 ## Events
 
+* [Events Overview](events/events-overview.md)
 * [Managing Events](events/markdown.md)
-* [Edit Event](events/edit-event.md)
+* [Adding An Event](events/adding-an-event.md)

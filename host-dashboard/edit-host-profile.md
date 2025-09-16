@@ -6,7 +6,7 @@ icon: user-pen
 
 To edit your host profile details click on `Edit Profile` in the dashboard navigation&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-09-16 at 12.12.14 PM.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/Screenshot 2025-09-16 at 12.12.14 PM.png" alt="" width="213"><figcaption></figcaption></figure></div>
 
 #### Profile Edit Form
 

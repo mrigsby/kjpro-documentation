@@ -4,6 +4,7 @@
 
 ## Host Dashboard
 
+* [Subscribing to KJPro](host-dashboard/subscribing-to-kjpro.md)
 * [Logging In](host-dashboard/logging-in.md)
 * [Dashboard Overview](host-dashboard/tour.md)
 * [Edit Host Profile](host-dashboard/edit-host-profile.md)

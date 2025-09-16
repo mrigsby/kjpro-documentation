@@ -10,8 +10,5 @@
 
 ## Events
 
-* [Managing Events](events/managing-events.md)
-* [Editor](events/editor.md)
-* [Images & media](events/images-and-media.md)
-* [Interactive blocks](events/interactive-blocks.md)
-* [Integrations](events/integrations.md)
+* [Managing Events](events/markdown.md)
+* [Edit Event](events/edit-event.md)

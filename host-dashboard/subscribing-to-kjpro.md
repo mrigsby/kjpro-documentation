@@ -14,9 +14,8 @@ If you head over to the KJPro.info website and click `Join KJPro` in the main me
 
 The form is very self explanatory, however there are a couple items of note.
 
-1. KJ/DJ Name: This is your "Stage Name" i.e. `The Karaoke Kingpin`
-2. KJ/DJ URL: This will be turned into your Host Profile URL. Using the examples above, if you enter `The Karaoke Kingpin` the system will replace the spaces with dashes, giving you `The-Karaoke-Kingpin`\
-
+1. KJ/DJ Name: This is your "Stage Name" i.e. `The Karaoke Kingpin` &#x20;
+2. KJ/DJ URL: This will be turned into your Host Profile URL. Using the examples above, if you enter `The Karaoke Kingpin` the system will replace the spaces with dashes, giving you `The-Karaoke-Kingpin`
 
 After preparing the url the KJPro.info system will verify it is not in use by any other hosts. If it is it will attempt to make it unique by appending a number to it.&#x20;
 

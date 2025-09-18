@@ -2,7 +2,7 @@
 icon: user-pen
 ---
 
-# Edit Host Profile
+# Your Host Profile
 
 To edit your host profile details click on `Edit Profile` in the dashboard navigation&#x20;
 

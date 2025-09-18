@@ -3,6 +3,7 @@ description: >-
   The Host Preferences allow you set and control your contact preferences as
   well as how your events search results and pages are displayed and your
   profile page is displayed.
+icon: user-gear
 ---
 
 # Your Preferences

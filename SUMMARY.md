@@ -5,10 +5,10 @@
 
 ## The Basics
 
-* [Subscribing to KJPro](the-basics/subscribing-to-kjpro.md)
-* [Logging In](the-basics/logging-in.md)
-* [Dashboard Overview](the-basics/tour.md)
-* [Your Host Profile](the-basics/your-host-profile.md)
+* [Subscribing to KJPro](host-dashboard/subscribing-to-kjpro.md)
+* [Logging In](host-dashboard/logging-in.md)
+* [Dashboard Overview](host-dashboard/tour.md)
+* [Your Host Profile](host-dashboard/edit-host-profile.md)
 * [Your Preferences](the-basics/your-preferences.md)
 
 ## Events

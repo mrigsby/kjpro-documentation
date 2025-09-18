@@ -1,7 +1,7 @@
 ---
 description: >-
   There are multiple ways to get support and assistance. We are here to help
-  guide you and assist you in getting the most out of the KJPro system.
+  guide you and assist you in getting the most out of the KJPro service.
 icon: comments-question-check
 ---
 

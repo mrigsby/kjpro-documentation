@@ -84,7 +84,7 @@ The `Title`, `Description` and `Spcials` are optional. Entering information in a
 
 Uploading an `Event Flyer` is optional. If an `Event Flyer` is uploaded it replace the root events flyer for this events instance.
 
-#### Agree to Terms of Service, Privacy Policy & Save
+### Agree to Terms of Service, Privacy Policy & Save
 
 <figure><img src="../.gitbook/assets/EventMod-6.png" alt=""><figcaption></figcaption></figure>
 

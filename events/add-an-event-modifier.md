@@ -48,9 +48,7 @@ In-Active event modifiers have no affect on the events schedule.
 
 <figure><img src="../.gitbook/assets/EventMod-2-0.png" alt=""><figcaption></figcaption></figure>
 
-The `Event Canceled` tells the system if this modifier is canceling the event or just changing other event specifics
-
-If an event is canceled it gives you the option to show a canceled message or not
+The `Event Canceled` tells the system if this modifier is canceling the event or just changing other event specifics. If an event is canceled it gives you the option to show a canceled message or not
 
 <figure><img src="../.gitbook/assets/EventMod-2-1.png" alt=""><figcaption></figcaption></figure>
 
@@ -63,7 +61,7 @@ If `Show a Canceled Message` is `No` the event will be completely removed from a
 If you choose to show a message, you will be allowed to enter a message that will appear on that events instance in the search and event page. This message should be kept brief and to the point
 
 {% hint style="info" %}
-Showing a message should only usually be used when an event is canceled on short notice and your regular event attendees would be expecting to see it in the schedule
+Showing a message should only be used when an event is canceled on short notice and your regular event attendees would be expecting to see it in the schedule
 {% endhint %}
 
 #### Event Start & End Time \*_Optional_
@@ -86,7 +84,7 @@ The `Title`, `Description` and `Spcials` are optional. Entering information in a
 
 <figure><img src="../.gitbook/assets/EventMod-5.png" alt=""><figcaption></figcaption></figure>
 
-Uploading an `Event Flyer` is optional. If an `Event Flyer` is uploaded it replace the root events flyer for this events instance. If you do not want to add a different flyer for this instance of the event then just leave this section as is. If an event flyer was uploaded and you want to remove it you can use the `Clear Uploaded Flyer` button.
+Uploading an `Event Flyer` is optional. If an `Event Flyer` is uploaded it replaces the root events flyer for this events instance. If you do not want to add a different flyer for this instance of the event then just leave this section as is. If an event flyer was uploaded and you want to remove it you can use the `Clear Uploaded Flyer` button.
 
 <div align="left"><figure><img src="../.gitbook/assets/Screenshot 2025-09-18 at 5.11.59 PM.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
@@ -94,4 +92,4 @@ Uploading an `Event Flyer` is optional. If an `Event Flyer` is uploaded it repla
 
 <figure><img src="../.gitbook/assets/EventMod-6.png" alt=""><figcaption></figcaption></figure>
 
-Once all desired event modifications have been made you can agree to the [Terms of Service](https://kjpro.info/terms-of-service) and [Privacy Policy](https://kjpro.info/privacy-policy) and click the `Add Event Modifier` button. If your `Event Status` is set to `Active` the `Event Modifier` will take effect immediately. &#x20;
+Once all desired event modifications have been made you must agree to the [Terms of Service](https://kjpro.info/terms-of-service) and [Privacy Policy](https://kjpro.info/privacy-policy) and click the `Add Event Modifier` button. If your `Event Status` is set to `Active` the `Event Modifier` will take effect immediately.

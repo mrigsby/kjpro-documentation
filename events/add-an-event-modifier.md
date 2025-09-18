@@ -22,7 +22,7 @@ layout:
 
 From the `Event Modifiers` list of an event click the `Add Modifier` button in the top right to load the `Add Event Modifier` form
 
-<div align="left"><figure><img src="../.gitbook/assets/EventMod-0.png" alt="" width="85"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/EventMod-0.png" alt="" width="170"><figcaption></figcaption></figure></div>
 
 ### Complete Event Modifier Form
 
@@ -32,7 +32,7 @@ Lets review the event modifier form
 
 <figure><img src="../.gitbook/assets/EventMod-1.png" alt=""><figcaption></figcaption></figure>
 
-The `Modifier Date` is a select box of all the dates in this events schedule. . Select the date from the select box that you wish to modify
+The `Modifier Date` is a select box of all the dates in this events schedule. Select the date from the select box that you wish to modify
 
 {% hint style="info" %}
 If the date you are looking for is not in the list there is already an event modifier for that date
@@ -55,7 +55,7 @@ If an event is canceled it gives you the option to show a canceled message or no
 <figure><img src="../.gitbook/assets/EventMod-2-1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If Show a Canceled Message is No the event will be completely removed from all searches and the events schedule.
+If `Show a Canceled Message` is `No` the event will be completely removed from all searches and the events schedule.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/EventMod-2-2.png" alt=""><figcaption></figcaption></figure>
@@ -66,23 +66,29 @@ If you choose to show a message, you will be allowed to enter a message that wil
 Showing a message should only usually be used when an event is canceled on short notice and your regular event attendees would be expecting to see it in the schedule
 {% endhint %}
 
-#### Event Start & End Time | \*_Optional_
+#### Event Start & End Time \*_Optional_
 
 <figure><img src="../.gitbook/assets/EventMod-3.png" alt=""><figcaption></figcaption></figure>
 
 `Event Start Time` and `Event End Time` are _**optional**_. Entering a time in either of these fields will override the root events start and/or end time for this events instance.
 
-#### Event Title, Description & Specials | \*_Optional_
+{% hint style="info" %}
+Any optional field should be left completely empty so the KJPro system knows to use the root events information
+{% endhint %}
+
+#### Event Title, Description & Specials \*_Optional_
 
 <figure><img src="../.gitbook/assets/EventMod-4.png" alt=""><figcaption></figcaption></figure>
 
 The `Title`, `Description` and `Spcials` are optional. Entering information in any of these will override the root events corresponding information for this events instance.
 
-#### Event Flyer | \*_Optional_
+#### Event Flyer \*_Optional_
 
 <figure><img src="../.gitbook/assets/EventMod-5.png" alt=""><figcaption></figcaption></figure>
 
-Uploading an `Event Flyer` is optional. If an `Event Flyer` is uploaded it replace the root events flyer for this events instance.
+Uploading an `Event Flyer` is optional. If an `Event Flyer` is uploaded it replace the root events flyer for this events instance. If you do not want to add a different flyer for this instance of the event then just leave this section as is. If an event flyer was uploaded and you want to remove it you can use the `Clear Uploaded Flyer` button.
+
+<div align="left"><figure><img src="../.gitbook/assets/Screenshot 2025-09-18 at 5.11.59 PM.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### Agree to Terms of Service, Privacy Policy & Save
 

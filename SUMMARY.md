@@ -15,4 +15,4 @@
 * [Managing Events](events/markdown.md)
 * [Adding An Event](events/adding-an-event.md)
 * [Event Modifiers](events/event-modifiers.md)
-* [Add An Event Modifier](events/add-an-event-modifier.md)
+* [Add Event Modifier](events/add-event-modifier.md)

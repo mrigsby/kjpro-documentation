@@ -1,6 +1,7 @@
 # Table of contents
 
 * [KJPro.info Documentation](README.md)
+* [Contacting Support](contacting-support.md)
 
 ## Host Dashboard
 
